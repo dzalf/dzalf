@@ -10,7 +10,11 @@ I currently work as a PDRA in The University of Manchester National Graphene Ins
 
 For the past months I have developed a series of highly interesting electronic systems for [SmartIR Ltd](https://www.smartir.co.uk)
 
-On my free time I normally develop Electronics and C++ libraries in my personal _mancave_.
+I also enjoy like a madman doing some CAD design. Currently using FreeCAD (a bit flawed but #itsfree!), Onshape (fantastic but $$$) and Fusion 360 (#meh). Learning OpenSCAD.
+
+I am proficient in C/C++, Matlab, Javascript, a bit in C# (getting there) and Python. I use KiCAD on a daily basis and therefore I have been a supporter of their project for the past year or so (and thus I highly encourage you to [donate](https://www.kicad.org/donate/) too)
+
+On my free time you will normally find me in my _mancave_ either designing some random electronic board, coding a C++ library or tinkering with some obscure chip pulled from a PCB that I likely found somewhere in the dumpster.
 
 **Personal Interests**
 
