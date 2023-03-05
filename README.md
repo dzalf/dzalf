@@ -1,4 +1,6 @@
-### Hi there 👋 My name is Daniel and I am an Electronics/Hardware/Embedded Systems Engineer. I also hold a PhD in Materials Science (2D materials) and an MSc in Bioelectronics. I also worked as an Electronics repair technician for nearly 15 years.
+### Hi there 👋 
+
+My name is Daniel and I am an Electronics/Hardware/Embedded Systems Engineer. I also hold a PhD in Materials Science (2D materials) and an MSc in Bioelectronics. I also worked as an Electronics repair technician for nearly 15 years.
 
 I deeply enjoy the ground-up developemnt of mixed-domain instrumentation electronics and embedded systems.
 
