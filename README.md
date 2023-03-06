@@ -26,7 +26,7 @@ I am a confessed coffee snob and I have a deep passion for audio gear (you can c
 
 Happy to collaborate (if my schedule isn't too busy)
 
-![](https://komarev.com/ghpvc/?username=dzalf&color=blueviolet) (since 5th March 2023)
+
 
 <!--
 **dzalf/dzalf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
