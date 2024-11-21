@@ -8,7 +8,9 @@ You can check out my Research Output [here](https://research.manchester.ac.uk/en
 
 I currently work as a PDRA at The University of Manchester National Graphene Institute (NGI) developing graphene-based sensors. I am the Lead Engineer from [AtomicMechanicsLtd](https://github.com/Atomic-Mechanics-Ltd) where we develop graphene-based [pressure sensors](https://atomic-mechanics.com).
 
-For the past months, I have developed a series of highly interesting electronic systems for [SmartIR Ltd](https://www.smartir.co.uk)
+For about a year and a half, I developed a series of highly interesting electronic systems for [SmartIR Ltd](https://www.smartir.co.uk) first as an external consultant, then as the Lead Electronics Engineer.
+
+Recently, I took the position of Senior Electronics Engineer at [Graphene Trace Ltd](https://www.graphenetrace.com) where we aim at tackling pressure ulcers using graphene-based pressure sensors and data-driven analysis with the help of advanced ML models. Calling for investors!
 
 I also enjoy CAD design like a madman. Currently using FreeCAD (a bit flawed but #itsfree!), Onshape (fantastic but $$$) and Fusion 360 (#meh). Learning OpenSCAD.
 
