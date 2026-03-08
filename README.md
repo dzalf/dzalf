@@ -12,7 +12,7 @@ From November of 2023 until June of 2024, I developed a series of highly interes
 
 In July on 2024, I took the position of Senior Electronics Engineer at [Graphene Trace Ltd](https://www.graphenetrace.com), where we aim at tackling pressure ulcers using graphene-based pressure sensors and data-driven analysis with the help of advanced ML models. Calling for investors!
 
-In June of 2024, I took a big leap of faith by leaving the UK after 10 years and moving to Thailand, where I founded my consultancy [Ivory Electronics Ltd](www.ivory-electronics.com) and rejoined my lovely wife.
+In June of 2024, I took a big leap of faith by leaving the UK after 10 years and moving to Thailand, where I founded my consultancy [Ivory Electronics Ltd](https://www.ivory-electronics.com) and rejoined my lovely wife.
 
 I enjoy CAD design like a madman. Currently using FreeCAD (a bit flawed, but #itsfree!), Onshape (fantastic but $$$) and Fusion 360 (#meh). Learning OpenSCAD.
 
